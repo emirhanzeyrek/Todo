@@ -1,5 +1,13 @@
-# Do Stuff Todo List Application
-<img width="375" alt="image1" src="https://github.com/emirhanzeyrekk/DoStuff/assets/121854589/2d836971-c44c-41ab-9f2b-fe977445e914">
-<img width="375" alt="image2" src="https://github.com/emirhanzeyrekk/DoStuff/assets/121854589/d3ef456f-e718-4e51-b83a-545eeb40b7df">
-<img width="375" alt="image3" src="https://github.com/emirhanzeyrekk/DoStuff/assets/121854589/46cd0969-77d8-442a-9282-de0646e2b688">
-<img width="375" alt="image4" src="https://github.com/emirhanzeyrekk/DoStuff/assets/121854589/1d8f57ed-3e7b-4335-ba20-df8e3b608d03">
+# Todo
+It allows you to save things you want to do, but don’t want to forget, in order of priority, so you can access them instantly when you need to remember.
+
+## Technologies
+* Development Environment: Xcode
+* Programming Language: SwiftUI
+* OS: iOS
+
+## Screenshots
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c6a75995-9709-4e55-bbbe-d418a1a37597">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/64340555-0e77-46f8-846f-cd3cd8b92541">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/692318fe-f049-47de-ac21-9174d20c50bf">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/71649960-b4fc-44a9-b1d0-bc3861230948">
